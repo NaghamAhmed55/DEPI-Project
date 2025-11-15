@@ -14,7 +14,7 @@ export default defineConfig([
   reactRefresh.configs.vite,
   {
     files: ['**/*.{js,jsx}'],
-      reactRefresh.configs.recommended,
+    languageOptions: {
       ecmaVersion: 2020,
       globals: globals.browser,
       parserOptions: {
