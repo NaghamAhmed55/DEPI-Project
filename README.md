@@ -126,4 +126,4 @@ Steps to integrate when ready:
 2. Create Clerk app and get keys
 3. Wrap the app with `ClerkProvider`
 4. Add `SignInButton` / `UserButton` in the Navbar
-5. Protect cart/checkout routes as needed.
+5. Protect cart/checkout routes as needed
